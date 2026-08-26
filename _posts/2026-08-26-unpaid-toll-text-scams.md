@@ -6,8 +6,8 @@ tags: [smishing, toll-scams, text-scams]
 
 Derek's phone buzzed while he was pouring coffee. A text, no name attached, just a number he didn't recognize.
 
-<figure>
-  <img src="/assets/images/toll_scam.png" alt="A fake DMV text message claiming an E-ZPass toll payment is overdue, with a link to pay and instructions to reply 'Y' and open the link in Safari.">
+<figure style="max-width: 33%; margin-left: auto; margin-right: auto;">
+  <img src="/assets/images/toll_scam.png" alt="A fake DMV text message claiming an E-ZPass toll payment is overdue, with a link to pay and instructions to reply 'Y' and open the link in Safari." style="width: 100%; height: auto;">
   <figcaption>The text Derek received.</figcaption>
 </figure>
 
