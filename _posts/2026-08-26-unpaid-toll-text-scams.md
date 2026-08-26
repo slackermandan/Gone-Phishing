@@ -6,24 +6,20 @@ tags: [smishing, toll-scams, text-scams]
 
 Derek's phone buzzed while he was pouring coffee. A text, no name attached, just a number he didn't recognize.
 
-> **[TollPay Services]:** Your account has an outstanding balance of $9.75. Pay now to avoid a $50 late fee and possible suspension of vehicle registration. [link]
+<figure>
+  <img src="/assets/images/toll_scam.png" alt="A fake DMV text message claiming an E-ZPass toll payment is overdue, with a link to pay and instructions to reply 'Y' and open the link in Safari.">
+  <figcaption>The text Derek received.</figcaption>
+</figure>
 
 Derek felt his stomach tighten a little. He did have a toll account, an E-ZPass tag from three years ago when he lived in New Jersey. He hadn't driven through a toll booth in months, but who tracks that closely? The message felt plausible enough that his thumb was halfway to the link before he stopped himself.
 
-He set the phone down and thought about it for a second. TollPay Services. That wasn't his agency. His account was with E-ZPass, tied to a specific state program, not some vaguely named "TollPay." If he genuinely owed money, wouldn't the text come from the actual agency he had an account with, not a name he'd never heard of?
+He set the phone down and thought about it for a second. The Department of Motor Vehicles? That wasn't who managed his tolls. His account was with E-ZPass, a separate toll authority, not the DMV. If he genuinely owed toll money, wouldn't the notice come from E-ZPass itself, not a different agency entirely?
 
 There was something else, too. If E-ZPass really did have an unpaid balance on his account, they already had his information. His name, his plate, his account number. A real notice wouldn't need him to click a link and start entering payment details like a stranger. It would reference an account they already knew was his.
 
 So instead of tapping the link, Derek opened a browser and typed in the E-ZPass website himself, the same one he'd bookmarked years ago. He logged in. Balance: zero. No pending charges, no flags on the account, nothing.
 
 The text wasn't from his toll agency at all. It was a stranger who had no idea whether he'd ever driven through a toll booth in his life, betting that enough people who received the message would have some kind of toll account somewhere and would react on instinct rather than checking.
-
-Here's a real example of this scam, reported by someone who received it:
-
-<figure>
-  <img src="/assets/images/toll_scam.png" alt="A fake DMV text message claiming an E-ZPass toll payment is overdue, with a link to pay and instructions to reply 'Y' and open the link in Safari.">
-  <figcaption>A real "unpaid toll" smishing text impersonating the DMV. Note the urgency, the suspicious link domain, and the odd instruction to reply "Y" before clicking.</figcaption>
-</figure>
 
 ## How These Texts Work
 
