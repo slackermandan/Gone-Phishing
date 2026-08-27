@@ -22,6 +22,10 @@
 
 Same process, but the file goes in `_resources/` instead of `_posts/`, and the filename doesn't need a date — any short, descriptive filename ending in `.md` works (e.g. `spotting-fake-websites.md`). It will automatically show up, alphabetically by title, on the [Educational Materials](https://gonephishing.org/resources/) page — you don't need to edit that page yourself.
 
+## Keeping the changelog up to date
+
+After making a change (new post, resource, fix, or anything else worth noting), add a short bullet to [CHANGELOG.md](CHANGELOG.md) under today's date, in plain language. If you're asking Claude Code to make the change, it should do this for you automatically.
+
 ## Things you don't need to worry about
 
 - You never need to "build" or "compile" anything — GitHub does that automatically when you push.
